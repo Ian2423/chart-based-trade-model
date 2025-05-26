@@ -27,7 +27,7 @@ The model learns from both winning and losing trades, improving over time with h
 | File                             | Description                               |
 |----------------------------------|-------------------------------------------|
 | `trade_model.ipynb`              | Main notebook (training, prediction, fine-tuning) |
-| `T29 trades.csv`                 | Dataset of trades with labels             |
+| `trades.csv`                 | Dataset of trades with labels             |
 | `corrections.csv`               | (Optional) New trade corrections for fine-tuning |
 | `trade_multi_output_model.keras`| Trained model (MobileNetV2 backbone)      |
 | `label_encoder.pkl`              | Outcome label encoder                     |
